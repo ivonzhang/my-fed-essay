@@ -10,3 +10,6 @@
 
 ## 前端跨域问题
 * [纯前端解决跨域问题](https://github.com/ivonzhang/my-fed-essay/wiki/%E5%89%8D%E7%AB%AF%E8%A7%A3%E5%86%B3js%E8%B7%A8%E5%9F%9F%E9%97%AE%E9%A2%98)
+
+## Virtrul Dom
+* [算法](https://github.com/livoras/blog/issues/13#issue-118253129)
